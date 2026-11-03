@@ -9,3 +9,4 @@ _book
 _publish.yml
 presentation/demo/index.html
 presentation/demo/index_files/
+*.docx
